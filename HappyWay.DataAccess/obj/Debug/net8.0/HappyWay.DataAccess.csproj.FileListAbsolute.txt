@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\bin\Debug\net8.0\HappyWay.DataAccess.deps.json
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\bin\Debug\net8.0\HappyWay.DataAccess.runtimeconfig.json
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\bin\Debug\net8.0\HappyWay.DataAccess.dll
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\bin\Debug\net8.0\HappyWay.DataAccess.pdb
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\bin\Debug\net8.0\HappyWay.Domain.dll
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\bin\Debug\net8.0\HappyWay.Domain.pdb
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\HappyWay.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\HappyWay.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\HappyWay.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\HappyWay.DataAccess.AssemblyInfo.cs
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\HappyWay.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\HappyWay.1F06F639.Up2Date
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\HappyWay.DataAccess.dll
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\refint\HappyWay.DataAccess.dll
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\HappyWay.DataAccess.pdb
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\HappyWay.DataAccess.genruntimeconfig.cache
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.DataAccess\obj\Debug\net8.0\ref\HappyWay.DataAccess.dll

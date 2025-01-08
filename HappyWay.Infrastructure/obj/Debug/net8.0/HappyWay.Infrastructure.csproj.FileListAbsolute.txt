@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\bin\Debug\net8.0\HappyWay.Infrastructure.deps.json
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\bin\Debug\net8.0\HappyWay.Infrastructure.dll
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\bin\Debug\net8.0\HappyWay.Infrastructure.pdb
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\bin\Debug\net8.0\HappyWay.DataAccess.dll
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\bin\Debug\net8.0\HappyWay.Domain.dll
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\bin\Debug\net8.0\HappyWay.DataAccess.pdb
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\bin\Debug\net8.0\HappyWay.Domain.pdb
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\HappyWay.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\HappyWay.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\HappyWay.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\HappyWay.Infrastructure.AssemblyInfo.cs
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\HappyWay.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\HappyWay.A91DE2EA.Up2Date
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\HappyWay.Infrastructure.dll
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\refint\HappyWay.Infrastructure.dll
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\HappyWay.Infrastructure.pdb
+C:\Users\Dell\source\repos\EShopWeb\HappyWay\HappyWay.Infrastructure\obj\Debug\net8.0\ref\HappyWay.Infrastructure.dll
